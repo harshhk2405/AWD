@@ -13,8 +13,8 @@ const s3 = new S3Client({
     credentials: {
         // accessKeyId: accessKey,
         // secretAccessKey: secretKey
-        accessKeyId: "AKIA6GBMHRKYLYUANK5O",
-        secretAccessKey: "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"
+        accessKeyId: "",
+        secretAccessKey: ""
     },
     region: "ap-south-1"
 })
